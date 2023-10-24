@@ -34,7 +34,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Authors
 
--   Ben Peake @BenPeake
--   Fintan Hardy @Natniif
--   James Bell @JRB3LL
--   Matthew Dyer @mattdyer1984
+- Ben Peake @BenPeake
+- Fintan Hardy @Natniif
+- James Bell @JRB3LL
+- Matthew Dyer @mattdyer1984
